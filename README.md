@@ -6,15 +6,17 @@ A simple game of "Rock Paper Scissors" written in [ArnoldC](https://github.com/l
 
 ##Usage
 
-1. Clone/download the project. 
-2. Be sure to have the latest version of [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed.
-3. Download the latest [Arnold.jar](https://lhartikk.github.io/ArnoldC/) file to your project directory.
-4. Execute the following on your command line/prompt interface:
+* Clone/download the project. 
+* Be sure to have the latest version of [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed.
+* Download the latest [Arnold.jar](https://lhartikk.github.io/ArnoldC/) file to your project directory.
+* Execute the following on your command line/prompt interface:
+
 ```
 java -jar ArnoldC.jar game.arnoldc
 java game
 ```
-5. [???](https://www.youtube.com/watch?v=pDxn0Xfqkgw)
 
-#Author
+* [???](https://www.youtube.com/watch?v=pDxn0Xfqkgw)
+
+##Author
 Copyright Sameer Chitley, 2014
